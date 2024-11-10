@@ -1,0 +1,2733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EndPoint.Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EndPoint.Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-aviny.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-aviny.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-azarmehr.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-azarmehr.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-damavand.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-damavand.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-dana.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-dana.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-dastnevis.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-dastnevis.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-dubai.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-dubai.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-estedad.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-estedad.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-helvetica-neue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-helvetica-neue.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-iran-sans.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-iran-sans.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-iran-yekan.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-iran-yekan.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-lalezar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-lalezar.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-mikhak.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-mikhak.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-myriad.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-myriad.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-noora.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-noora.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-palatino-sans.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-palatino-sans.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-pinar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-pinar.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-sahel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-sahel.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-shabnam.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-shabnam.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-vanda.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-vanda.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\primary-vazir.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\primary-vazir.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-aviny.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-aviny.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-azarmehr.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-azarmehr.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-damavand.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-damavand.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-dana.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-dana.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-dastnevis.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-dastnevis.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-dubai.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-dubai.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-estedad.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-estedad.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-helvetica-neue.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-helvetica-neue.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-iran-sans.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-iran-sans.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-iran-yekan.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-iran-yekan.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-lalezar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-lalezar.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-mikhak.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-mikhak.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-myriad.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-myriad.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-noora.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-noora.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-palatino-sans.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-palatino-sans.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-pinar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-pinar.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-sahel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-sahel.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-shabnam.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-shabnam.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-vanda.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-vanda.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\css\\font\\secondary-vazir.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font\\secondary-vazir.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\aviny-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\aviny-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\aviny-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\aviny-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\aviny-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\aviny-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\aviny-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\aviny-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\azarmehr-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\azarmehr-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\damavand-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\damavand-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\damavand-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\damavand-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\damavand-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\damavand-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\damavand-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\damavand-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dana-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dana-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dastnevis-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dastnevis-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dastnevis-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dastnevis-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dastnevis-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dastnevis-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dastnevis-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dastnevis-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\dubai-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\dubai-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\estedad-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\estedad-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\helvetica-neue-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-sans-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-sans-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\iran-yekan-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\iran-yekan-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\lalezar-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\lalezar-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\lalezar-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\lalezar-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\lalezar-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\lalezar-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\lalezar-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\lalezar-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\mikhak-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\mikhak-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\myriad-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\myriad-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\noora-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\noora-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\palatino-sans-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\palatino-sans-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\pinar-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\pinar-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\sahel-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\sahel-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\shabnam-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\shabnam-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vanda-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vanda-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-300.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-300.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-300.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-300.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-400.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-400.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-400.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-400.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-500.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-500.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-500.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-500.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-500.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-500.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-500.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-500.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-700.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-700.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-700.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-700.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-700.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\fonts\\farsi-fonts\\vazir-700.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\farsi-fonts\\vazir-700.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\themify\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\themify\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\themify\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\themify\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\themify\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\themify\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\css\\helper.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\css\\pe-icon-7-weather.css",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\css\\pe-icon-7-weather.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.eot",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.svg",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.woff",
+      "PackagePath": "staticwebassets\\assets\\icons\\weather\\fonts\\pe-icon-set-weather.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\apex-irregular-data-series.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\apex-irregular-data-series.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\apex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\apex.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\chartjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\chartjs.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\justgage.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\justgage.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\morris.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\charts\\peity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\charts\\peity.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\clockpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\clockpicker.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\colorpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\colorpicker.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\dashboard.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\datatable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\datatable.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\datepicker.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\dropzone.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\dropzone.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\form-wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\form-wizard.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\input-mask.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\input-mask.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\lightbox.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\range-slider.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\select2.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\slick.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\sweet-alert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\sweet-alert.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\toast.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\toast.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\tour.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\tour.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\js\\examples\\vmap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\examples\\vmap.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\avatar.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\ckeditor-logo.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\ckeditor-logo.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\favicon.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\google_play_button.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\google_play_button.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\image1.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\image1.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\login.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\login.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\logo-sm.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\logo-sm.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\notification-icon.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\notification-icon.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo1.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo1.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo2.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo2.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo5.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo5.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo6.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo6.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo7.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo7.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo8.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo8.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\photo9.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\photo9.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-five.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-five.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-four.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-four.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-one.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-one.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-six.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-six.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-three.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-three.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\portfolio-two.jpg",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\portfolio-two.jpg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\image\\profile-bg.png",
+      "PackagePath": "staticwebassets\\assets\\media\\image\\profile-bg.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\svg\\404.svg",
+      "PackagePath": "staticwebassets\\assets\\media\\svg\\404.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\assets\\media\\svg\\mean_at_work.svg",
+      "PackagePath": "staticwebassets\\assets\\media\\svg\\mean_at_work.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\bundle.css",
+      "PackagePath": "staticwebassets\\vendors\\bundle.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bundle.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\apex\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\apex\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\justgage\\justgage.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\justgage\\justgage.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\justgage\\raphael-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\justgage\\raphael-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\vendors\\charts\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\morris\\raphael-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\morris\\raphael-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\charts\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\vendors\\charts\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\vendors\\circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\LICENSE.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\README.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\README.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\ciframe.html"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\tmpFrameset.html"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\dialogs\\wsc_ie.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\plugins\\wsc\\skins\\moono-lisa\\wsc.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\vendors\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\clockpicker\\bootstrap-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\clockpicker\\bootstrap-clockpicker.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\clockpicker\\bootstrap-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\clockpicker\\bootstrap-clockpicker.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\colorpicker\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\colorpicker\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\colorpicker\\js\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\colorpicker\\js\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dataTable\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\vendors\\dataTable\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dataTable\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\vendors\\dataTable\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dataTable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\vendors\\dataTable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dataTable\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\dataTable\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\datepicker-jalali\\bootstrap-datepicker.fa.min.js",
+      "PackagePath": "staticwebassets\\vendors\\datepicker-jalali\\bootstrap-datepicker.fa.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\datepicker-jalali\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\vendors\\datepicker-jalali\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\datepicker-jalali\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\vendors\\datepicker-jalali\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\datepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendors\\datepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendors\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\vendors\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\vendors\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\form-wizard\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\vendors\\form-wizard\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\form-wizard\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\vendors\\form-wizard\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\vendors\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\fullcalendar\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\vendors\\fullcalendar\\locale\\fa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\fullcalendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fullcalendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\input-mask\\jquery.mask.js",
+      "PackagePath": "staticwebassets\\vendors\\input-mask\\jquery.mask.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\lightbox\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\lightbox\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendors\\lightbox\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\vendors\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\vendors\\nestable\\nestable.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\range-slider\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\vendors\\range-slider\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\range-slider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\vendors\\range-slider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendors\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendors\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendors\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendors\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendors\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendors\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendors\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendors\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendors\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\tagsinput\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\vendors\\tagsinput\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\vendors\\tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\tour\\css\\tour.min.css",
+      "PackagePath": "staticwebassets\\vendors\\tour\\css\\tour.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\tour\\js\\tour.min.js",
+      "PackagePath": "staticwebassets\\vendors\\tour\\js\\tour.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot\\vendors\\vmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\vendors\\vmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EndPoint.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EndPoint.Admin.props",
+      "PackagePath": "build\\EndPoint.Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EndPoint.Admin.props",
+      "PackagePath": "buildMultiTargeting\\EndPoint.Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EndPoint.Admin.props",
+      "PackagePath": "buildTransitive\\EndPoint.Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\bin\Debug\net8.0\UploadsClean.Common.deps.json
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\bin\Debug\net8.0\UploadsClean.Common.runtimeconfig.json
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\bin\Debug\net8.0\UploadsClean.Common.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\bin\Debug\net8.0\UploadsClean.Common.pdb
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.csproj.AssemblyReference.cache
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.AssemblyInfoInputs.cache
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.AssemblyInfo.cs
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.csproj.CoreCompileInputs.cache
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.sourcelink.json
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\refint\UploadsClean.Common.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.pdb
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\UploadsClean.Common.genruntimeconfig.cache
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Common\obj\Debug\net8.0\ref\UploadsClean.Common.dll

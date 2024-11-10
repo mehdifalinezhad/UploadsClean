@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UploadsClean.Presentation",
+    "\\UploadsClean.Presentation\\EndPoint.Admin",
+    "\\UploadsClean.Presentation\\EndPoint.Admin\\Controllers",
+    "\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot"
   ],
-  "SelectedNode": "\\C:\\AspOwn\\UPloadsCleanGIt",
+  "SelectedNode": "\\UploadsClean.Presentation\\EndPoint.Admin\\wwwroot",
   "PreviewInSolutionExplorer": false
 }
