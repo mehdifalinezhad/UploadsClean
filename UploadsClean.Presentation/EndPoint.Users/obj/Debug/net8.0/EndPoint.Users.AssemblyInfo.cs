@@ -8,12 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
+using System;
+using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("EndPoint.Users")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecdaf9559254ee59b45e62ad6b7e26c7c0651984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EndPoint.Users")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EndPoint.Users")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

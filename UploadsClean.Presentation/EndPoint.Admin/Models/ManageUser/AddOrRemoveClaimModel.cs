@@ -4,16 +4,13 @@
     {
         #region Constructor
 
-        public AddOrRemoveClaimModel()
-        {
-            UserClaims = new List<ClaimsModel>();
-        }
-
+     
         public AddOrRemoveClaimModel(string userId, IList<ClaimsModel> userClaims)
         {
             UserId = userId;
             UserClaims = userClaims;
-        }
+			UserClaims = new List<ClaimsModel>();
+		}
 
         #endregion
 
@@ -27,9 +24,6 @@
 
         #region Constructor
 
-        public ClaimsModel()
-        {
-        }
 
         public ClaimsModel(string claimType, string persionClaimType)
         {

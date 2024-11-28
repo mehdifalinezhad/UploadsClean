@@ -104,7 +104,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Domain\\UploadsClean.Domain.csproj": {
+                "projectPath": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Domain\\UploadsClean.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -345,6 +349,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "NToastNotify": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

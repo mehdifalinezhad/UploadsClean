@@ -4,6 +4,7 @@ using EndPoint.Admin.Security.DynamicRole;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using NToastNotify;
 using UploadClean.Application.ADOInterface;
 using UploadsClean.Domain.Entities.Users;
 using UploadsClean.Persistence.DataBaceContext;
@@ -24,7 +25,14 @@ builder.Services.ConfigureApplicationCookie(options =>
 });
     builder.Services.AddScoped<IDataBaseContext, DataBaseContext>();
 
-
+builder.Services.AddMvc().AddNToastNotifyNoty(new NotyOptions
+{
+    Timeout = 2000,
+    ProgressBar = true,
+    Modal = true,
+    Layout = "topCenter",
+    Theme = "metroui"
+});
 
   builder.Services.AddHttpContextAccessor();
   builder.Services.AddSingleton<IAuthorizationHandler, ClaimHandler>();
@@ -42,11 +50,30 @@ builder.Services.ConfigureApplicationCookie(options =>
 
    builder.Services.AddDbContext<AppDbContext>();
 
-   builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
-                .AddEntityFrameworkStores<AppDbContext>()
-                .AddDefaultTokenProviders();
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
+             .AddDefaultTokenProviders()
+             .AddEntityFrameworkStores<AppDbContext>();
 
+builder.Services.Configure<IdentityOptions>(options =>
+{
+	// Password settings.
+	options.Password.RequireDigit = false;
+	options.Password.RequireLowercase = false;
+	options.Password.RequireNonAlphanumeric = false;
+	options.Password.RequireUppercase = false;
+	options.Password.RequiredLength = 6;
+	options.Password.RequiredUniqueChars = 1;
 
+	// Lockout settings.
+	options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+	options.Lockout.MaxFailedAccessAttempts = 5;
+	options.Lockout.AllowedForNewUsers = false;
+
+	// User settings.
+	options.User.AllowedUserNameCharacters =
+	"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
+	options.User.RequireUniqueEmail = true;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

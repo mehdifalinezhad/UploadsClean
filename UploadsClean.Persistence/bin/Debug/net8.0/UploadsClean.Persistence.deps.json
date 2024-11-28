@@ -987,7 +987,8 @@
       },
       "UploadsClean.Common/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "UploadsClean.Domain": "1.0.0"
         },
         "runtime": {
           "UploadsClean.Common.dll": {}

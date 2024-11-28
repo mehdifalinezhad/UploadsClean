@@ -19,4 +19,4 @@
     <ProjectReference Include="..\UploadsClean.Common\UploadsClean.Common.csproj" />
   </ItemGroup>
 
-</Project>
+</Project>  

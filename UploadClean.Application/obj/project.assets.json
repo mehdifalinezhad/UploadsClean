@@ -1582,13 +1582,28 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "UploadsClean.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UploadsClean.Common.dll": {}
         },
         "runtime": {
           "bin/placeholder/UploadsClean.Common.dll": {}
+        }
+      },
+      "UploadsClean.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
+          "Microsoft.Extensions.Identity.Stores": "8.0.10"
+        },
+        "compile": {
+          "bin/placeholder/UploadsClean.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UploadsClean.Domain.dll": {}
         }
       }
     }
@@ -4221,6 +4236,11 @@
       "type": "project",
       "path": "../UploadsClean.Common/UploadsClean.Common.csproj",
       "msbuildProject": "../UploadsClean.Common/UploadsClean.Common.csproj"
+    },
+    "UploadsClean.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UploadsClean.Domain/UploadsClean.Domain.csproj",
+      "msbuildProject": "../UploadsClean.Domain/UploadsClean.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

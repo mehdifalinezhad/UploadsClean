@@ -104,7 +104,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Domain\\UploadsClean.Domain.csproj": {
+                "projectPath": "C:\\AspOwn\\UPloadsCleanGIt\\UploadsClean.Domain\\UploadsClean.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

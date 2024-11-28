@@ -14,7 +14,7 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin
 build_property._RazorSourceGeneratorDebug = 
 
@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/ManageUser/AddUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/ManageUser/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Shared/Error.cshtml]

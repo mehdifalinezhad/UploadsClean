@@ -1597,7 +1597,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "UploadsClean.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UploadsClean.Common.dll": {}

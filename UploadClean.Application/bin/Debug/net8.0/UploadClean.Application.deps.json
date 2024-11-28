@@ -976,10 +976,20 @@
       },
       "UploadsClean.Common/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
+          "UploadsClean.Domain": "1.0.0"
         },
         "runtime": {
           "UploadsClean.Common.dll": {}
+        }
+      },
+      "UploadsClean.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
+          "Microsoft.Extensions.Identity.Stores": "8.0.10"
+        },
+        "runtime": {
+          "UploadsClean.Domain.dll": {}
         }
       }
     }
@@ -1558,6 +1568,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "UploadsClean.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UploadsClean.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

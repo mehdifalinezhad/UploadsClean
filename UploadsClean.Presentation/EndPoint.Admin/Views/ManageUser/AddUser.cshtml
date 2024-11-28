@@ -1,5 +1,5 @@
-﻿@using UploadsClean.Domain.Entities.Users
-@model ApplicationUser
+﻿@using UploadsClean.Common
+@model UserModel
 <div class="card">
     <div class="card-body">
         <h6 class="card-title">بازخورد معتبر</h6>
@@ -13,12 +13,10 @@
                         صحیح است!
                     </div>
                 </div>
-
-
                 <div class="col-md-6 mb-3">
                     <label for="validationCustom01"> نام خانوادگی </label>
                     <input type="text" class="form-control" asp-for="FarsiLastName" placeholder="نام" required="">
-                    <span asp-validation-for="FarsiFirstName"></span>
+                    <span asp-validation-for="FarsiLastName"></span>
                     <div class="valid-feedback">
                         صحیح است!
                     </div>
@@ -51,9 +49,19 @@
                         <input type="text" asp-for="ComfirmPassword" class="form-control text-left" id="validationCustomUsername" placeholder="نام کاربری" aria-describedby="inputGroupPrepend" dir="ltr" required="">
                         <span asp-validation-for="ComfirmPassword"></span>
                     </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationCustomUsername">شماره موبایل</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="inputGroupPrepend"></span>
+                            </div>
+                            <input type="text" asp-for="PhoneNumber" class="form-control text-left" id="validationCustomUsername" placeholder="نام کاربری" aria-describedby="inputGroupPrepend" dir="ltr" required="">
+                            <span asp-validation-for="PhoneNumber"></span>
+                        </div>
 
+                    </div>
                 </div>
-                <div class="col-md-6 mb-3">
+                <div class="col-md-6 mb-6">
                     <label for="validationCustomUsername">انتخاب نقش</label>
                     <div class="input-group">
                         <div class="btn-group">

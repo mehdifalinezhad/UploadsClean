@@ -3,7 +3,9 @@ C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadClean.A
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadClean.Application.dll
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadClean.Application.pdb
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadsClean.Common.dll
+C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadsClean.Domain.dll
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadsClean.Common.pdb
+C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\bin\Debug\net8.0\UploadsClean.Domain.pdb
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\obj\Debug\net8.0\UploadClean.Application.csproj.AssemblyReference.cache
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\obj\Debug\net8.0\UploadClean.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\AspOwn\UPloadsCleanGIt\UploadClean.Application\obj\Debug\net8.0\UploadClean.Application.AssemblyInfoInputs.cache

@@ -14,4 +14,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UploadsClean.Domain\UploadsClean.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
