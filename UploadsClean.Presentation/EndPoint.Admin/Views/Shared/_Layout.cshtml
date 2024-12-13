@@ -335,19 +335,22 @@
 					<a href="/ManageUser/AddUser">ایجاد کاربر</a>
 				</li>
 				<li>
-					<a href="/calendar.html">تقویم</a>
+					<a href="/Category/AddCategory">ایجاد دسته بندی کالا</a>
 				</li>
 				<li>
-					<a href="/gallery.html">گالری</a>
+					<a href="/Category/LisCategory">لیست دسته بندی کالا</a>
+				</li>
+				<li>
+					<a href="/Product/AddProduct">افزودن کالا</a>
 				</li>
 				<li class="navigation-divider">دوستان</li>
 				<li>
 					<a href="/#" class="d-flex">
-						<div>
+					@* 	<div>
 							<figure class="avatar avatar-state-success avatar-xs mr-3">
 								<span class="avatar-title bg-warning rounded-circle">ت</span>
 							</figure>
-						</div>
+						</div> *@
 						<div class="flex-grow-1">
 							<h6 class="m-b-0 d-flex font-weight-normal justify-content-between primary-font">مری جین</h6>
 						</div>
@@ -355,11 +358,11 @@
 				</li>
 				<li>
 					<a href="/#" class="d-flex">
-						<div>
+					@* 	<div>
 							<figure class="avatar avatar-state-warning avatar-xs mr-3">
 								<img src="/assets/media/image/avatar.jpg" class="rounded-circle" alt="image">
 							</figure>
-						</div>
+						</div> *@
 						<div class="flex-grow-1">
 							<h6 class="m-b-0 d-flex font-weight-normal justify-content-between primary-font">جانی دپ</h6>
 						</div>
@@ -367,11 +370,11 @@
 				</li>
 				<li>
 					<a href="/#" class="d-flex">
-						<div>
+						@* <div>
 							<figure class="avatar avatar-state-danger avatar-xs mr-3">
 								<span class="avatar-title bg-info rounded-circle">آ</span>
 							</figure>
-						</div>
+						</div> *@
 						<div class="flex-grow-1">
 							<h6 class="m-b-0 d-flex font-weight-normal justify-content-between primary-font">تونی استارک</h6>
 						</div>
@@ -379,18 +382,18 @@
 				</li>
 				<li>
 					<a href="/#" class="d-flex">
-						<div>
+						@* <div>
 							<figure class="avatar avatar-state-info avatar-xs mr-3">
 								<span class="avatar-title bg-danger rounded-circle">ک</span>
 							</figure>
-						</div>
+						</div> *@
 						<div class="flex-grow-1">
 							<h6 class="m-b-0 d-flex font-weight-normal justify-content-between primary-font">استیو راجرز</h6>
 						</div>
 					</a>
 				</li>
 			</ul>
-			<ul id="navigationPlugins">
+			<ul id="navigationPlugins">  @*  class="navigation-active" *@
 				<li class="navigation-divider">پلاگین ها</li>
 				<li><a href="/sweet-alert.html">هشدار Sweet </a></li>
 				<li><a href="/lightbox.html">لورم ایپسوم </a></li>
@@ -416,7 +419,8 @@
 					</ul>
 				</li>
 			</ul>
-			<ul id="navigationElements">
+		</hr>
+			<ul id="navigationElements" class="navigation-active">
 				<li class="navigation-divider">عناصر</li>
 				<li>
 					<a href="/#">پایه</a>

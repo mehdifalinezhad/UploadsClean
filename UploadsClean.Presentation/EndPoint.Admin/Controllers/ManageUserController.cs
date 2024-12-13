@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using EndPoint.Admin.Utilities;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.Identity.Client;
@@ -42,7 +43,7 @@ namespace EndPoint.Admin.Controllers
 		public async Task<IActionResult> AddUser()
 		{
 
-			return View();
+			return  View();
 
 		}
 		[HttpPost]
@@ -68,7 +69,7 @@ namespace EndPoint.Admin.Controllers
 			return View();
 	
 		}
-
+		
 		public async Task<IActionResult> Login()
 		{
 

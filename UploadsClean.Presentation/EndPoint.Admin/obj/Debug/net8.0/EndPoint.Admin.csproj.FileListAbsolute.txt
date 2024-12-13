@@ -145,11 +145,8 @@ C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
-C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
-C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
@@ -164,7 +161,6 @@ C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
@@ -360,11 +356,15 @@ C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -462,9 +462,9 @@ C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Domain.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Persistence.dll
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadClean.Application.pdb
+C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Common.pdb
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Domain.pdb
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Persistence.pdb
-C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\bin\Debug\net8.0\UploadsClean.Common.pdb
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\obj\Debug\net8.0\EndPoint.Admin.csproj.AssemblyReference.cache
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\obj\Debug\net8.0\EndPoint.Admin.GeneratedMSBuildEditorConfig.editorconfig
 C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin\obj\Debug\net8.0\EndPoint.Admin.AssemblyInfoInputs.cache

@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\UploadClean.Application\UploadClean.Application.csproj" />
+    <ProjectReference Include="..\..\UploadsClean.Common\UploadsClean.Common.csproj" />
     <ProjectReference Include="..\..\UploadsClean.Domain\UploadsClean.Domain.csproj" />
     <ProjectReference Include="..\..\UploadsClean.Persistence\UploadsClean.Persistence.csproj" />
   </ItemGroup>

@@ -27,21 +27,26 @@ namespace UploadClean.Application.Service
 
         public ResultDto<List<GetAllProductDto>> getAllProductDto()
         {
-            
 
             List<GetAllProductDto> dtos= _context.GetAllProduct();
             if(dtos==null)
             {
+                return new ResultDto<List<GetAllProductDto>>()
+                {
+                    IsSuccess = false,
+                
+                }; 
+
 
             }
 
-
-
-            return new ResultDto<List<GetAllProductDto>>();
-
-
-
-        }
+            return new ResultDto<List<GetAllProductDto>>()
+            {
+               IsSuccess=true,
+                Data = dtos 
+              
+            };    
+		}
 
 
 

@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\AspOwn\UPloadsCleanGIt\UploadsClean.Presentation\EndPoint.Admin
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Category/LisCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTGlzQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/ManageUser/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/AspOwn/UPloadsCleanGIt/UploadsClean.Presentation/EndPoint.Admin/Views/Shared/Error.cshtml]
