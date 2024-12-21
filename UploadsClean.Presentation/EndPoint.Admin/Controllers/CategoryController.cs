@@ -14,11 +14,13 @@ namespace EndPoint.Admin.Controllers
 		private readonly IAddCategoryServise _addCategory;
 		private readonly IToastNotification _notiShow;
 		private readonly IGetAllCateqoryService _getAllCateqory;
-        public CategoryController(IAddCategoryServise addCategory, IToastNotification notiShow, IGetAllCateqoryService getAllCateqory)
+		private readonly IDelCategoryService _delCategory;
+        public CategoryController(IAddCategoryServise addCategory, IToastNotification notiShow, IGetAllCateqoryService getAllCateqory, IDelCategoryService delCategory)
         {
             _addCategory = addCategory;
             _notiShow = notiShow;
             _getAllCateqory = getAllCateqory;
+            _delCategory = delCategory;
         }
 
         public IActionResult AddCategory()
@@ -46,6 +48,7 @@ namespace EndPoint.Admin.Controllers
 
 
 		public IActionResult LisCategory()
+		
 		{
 			ResultDto<List<CategoryDtoForList>> result = _getAllCateqory.Execute();
 			if (!result.IsSuccess)
@@ -60,5 +63,21 @@ namespace EndPoint.Admin.Controllers
 		}
 
 
-	}
+		public IActionResult CategoryDel(int Id)
+		{
+			ResultDto result = _delCategory.Execute(Id);
+			if (!result.IsSuccess)
+			{
+				_notiShow.AddErrorToastMessage("ناتوان در حذف دسته بندی");
+				return RedirectToAction("LisCategory");
+			}
+
+			_notiShow.AddSuccessToastMessage(AppMessage.SUCCESS);
+			return RedirectToAction("LisCategory");
+
+		}
+
+
+
+    }
 }

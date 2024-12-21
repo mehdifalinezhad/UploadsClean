@@ -10,7 +10,8 @@ using UploadClean.Application.ADOInterface;
 using UploadClean.Application.Service;
 using UploadClean.Application.Service.CAtegory.Command;
 using UploadClean.Application.Service.CAtegory.Queries;
-using static UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles.GetUserInfoService;
+using UploadClean.Application.Service.Product.Command;
+using UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles;
 
 namespace UploadsClean.Persistence.DataBaceContext
 {
@@ -18,7 +19,7 @@ namespace UploadsClean.Persistence.DataBaceContext
     {
         private readonly IConfiguration _configuration;
 
-        public object Convertor { get; private set; }
+      //  public object Convertor { get; private set; }
 
         public DataBaseContext(IConfiguration configuration)
         {
@@ -104,13 +105,58 @@ namespace UploadsClean.Persistence.DataBaceContext
             {
                 connection.Close();
             }
+        }
 
 
+      
+       public int Sp_delCAtegory(int Id) 
+        {
+            string connection = _configuration.GetSection("connectionStrings").GetSection("defaultConnection").Value;
+            SqlConnection sqlConnection= new SqlConnection(connection);
+            SqlCommand command = new SqlCommand("SpDelCategory_Del", sqlConnection);
+            command.CommandType = System.Data.CommandType.StoredProcedure;
+            //command.Parameters.AddWithValue("@Id",Id);
+            command.Parameters.Add(new SqlParameter("@Id", Id));
+            try
+            {
+
+                sqlConnection.Open();
+                command.ExecuteNonQuery();
+                return 1;
+            }
+            catch
+            {
+                return -1;
+            }
+            finally
+            { 
+                sqlConnection.Close();  
+            }
 
         }
 
+        public int Sp_AddProduct(AddProductDto dto)
+        {
+            string connection = _configuration.GetSection("connectionStrings").GetSection("defaultConnection").Value;
+            SqlConnection sc = new SqlConnection(connection);
+            SqlCommand command = new SqlCommand("SP_AddProduct", sc);
+            command.CommandType = CommandType.StoredProcedure;
+            command.Parameters.Add(new SqlParameter("@Title", dto.Title));
+            command.Parameters.Add(new SqlParameter("@imageUrl", dto.ImageUrl));
+            command.Parameters.Add(new SqlParameter("@imageUrlLow", dto.ImageUrlLow));
+            command.Parameters.Add(new SqlParameter("@Count", dto.Count));
+            command.Parameters.Add(new SqlParameter("@Prise", dto.prise));
+            try
+            {
+                sc.Open();
+                command.ExecuteNonQuery();
+                return 1;
+            }
+            catch 
+            {
+                return -1;
+            }
+        }
+
     }
-
-
-
 }    

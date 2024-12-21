@@ -29,14 +29,13 @@
                             }
                             @foreach (var item in Model)
                             {
-                                Count++;
+                                Count=Count+1;
                                 <tr>
                                     <th scope="row">@Count</th>
                                     <td>@item.Title</td>
                                      <td><img src="@item.ImageUrl" style="height:30px;width:50px;"/></td>
                                     @*<td><img href="@item.ImageUrlLow" style="height:30px;width:50px;"/></td>*@
-
-                                    <td><a href="Category/CategoryDel?Id=Id"> del</a></td>
+                                    <td><a href="/Category/CategoryDel?Id=@item.Id"> del</a></td>
                                 </tr>
 
                             }

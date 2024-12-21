@@ -2,7 +2,6 @@
 
 using UploadClean.Application.ADOInterface;
 using UploadsClean.Common;
-using static UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles.GetUserInfoService;
 
 namespace UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles
 {
@@ -27,7 +26,7 @@ namespace UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles
                 {
                     Data = UserInfo,
                     IsSuccess = true,
-                    Message = "عملیات موفق آمیز",
+                    Message =AppMessage.SUCCESS,
                 };
             }
             else 
@@ -37,14 +36,14 @@ namespace UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles
                 {
 
                     IsSuccess = true,
-                    Message = "عملیات با خطا",
+                    Message = AppMessage.ERROR
                 };
             }
 
 
         }
-
-        public class UserInfoList_Dto
+    }
+    public class UserInfoList_Dto
         {
             public long MyKey { get; set; }
             public string FirstName { get; set; }
@@ -52,6 +51,6 @@ namespace UploadsClean.Common.Core.Application.Services.Users.Queries.GetRoles
             public string Mobile { get; set; }
         }
 
-    }
+   
 
 }

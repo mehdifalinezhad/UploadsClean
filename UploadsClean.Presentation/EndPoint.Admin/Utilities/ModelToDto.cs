@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UploadClean.Application.Service.CAtegory.Command;
+using UploadClean.Application.Service.Product.Command;
 using UploadsClean.Common;
 using UploadsClean.Domain.Entities.Users;
 
@@ -53,6 +54,23 @@ namespace EndPoint.Admin.Utilities
 			return userdto;
 		}
 
+      public static AddProductDto AddproductToModel(ProductModel model)
+		{
+			AddProductDto dto = new AddProductDto()
+			{ 
+			Title= (model.Title==null)?string.Empty:model.Title,
+            Count= (model.Count == null) ?0 : model.Count,
+            ImageUrl= (model.ImageUrl == null) ? string.Empty : model.ImageUrl,
+            ImageUrlLow = (model.ImageUrlLow == null) ? string.Empty : model.ImageUrlLow,
+             prise = (model.prise == null) ? string.Empty : model.prise
 
-	}
+           
+			};
+
+
+			return dto;
+        }
+
+
+    }
 }

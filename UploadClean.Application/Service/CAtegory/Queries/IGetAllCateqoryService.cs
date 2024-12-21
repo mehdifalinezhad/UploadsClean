@@ -34,7 +34,7 @@ namespace UploadClean.Application.Service.CAtegory.Queries
                 {
                     Data = answer,
                     IsSuccess = true,
-                    Message = "عملیات موفق آمیز"
+                    Message = AppMessage.SUCCESS
                 };
             }
             else 
@@ -43,7 +43,7 @@ namespace UploadClean.Application.Service.CAtegory.Queries
                 {
                     
                     IsSuccess = false,
-                    Message = "عملیات با خطا"
+                    Message = AppMessage.ERROR
                 };
             }
         }

@@ -29,6 +29,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services.AddScoped<IDataBaseContext, DataBaseContext>();
     builder.Services.AddScoped<IAddCategoryServise, AddCategoryServise>();
     builder.Services.AddScoped<IGetAllCateqoryService, GetAllCateqoryService>();
+    builder.Services.AddScoped<IDelCategoryService, DelCategoryService>();
 
     builder.Services.AddMvc().AddNToastNotifyNoty(new NotyOptions
     {

@@ -1,1 +1,46 @@
-﻿
+﻿@model ProductModel
+<div class="card">
+    <div class="card-body">
+        <h6 class="card-title">اضافه کردن کالا</h6>
+        <form role="form" method="post" asp-controller="Product" class="needs-validation" novalidate="" enctype="multipart/form-data">
+            <div class="form-row">
+                <div class="col-md-6 mb-3">
+                    <label for="validationCustom01">نام </label>
+                    <input type="text" class="form-control" asp-for="Title" placeholder="نام دسته بندی">
+                    <span asp-validation-for="Title"></span>
+
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="validationCustom01">عکس محصول </label>
+                    <input type="File" class="form-control" asp-for="File" placeholder="فایل عکس">
+
+                    <span asp-validation-for="Title"></span>
+                </div>
+
+
+            </div>
+            <div class="form-row">
+                <div class="col-md-6 mb-3">
+                    <label for="validationCustom01">تعداد </label>
+                    <input type="text" class="form-control" asp-for="Count">
+                    <span asp-validation-for="Count"></span>
+
+                </div>
+           </div>
+            <div class="form-row">
+                <div class="col-md-6 mb-3">
+                    <label for="validationCustom01">قیمت به تومان </label>
+                    <input type="text" class="form-control" asp-for="prise">
+                    <span asp-validation-for="prise"></span>
+
+                </div>
+            </div>
+            
+           
+            <div class="row">
+                <button class="btn btn-primary" type="submit">ثبت فرم</button>
+            </div>
+        </form>
+    </div>
+
+</div>

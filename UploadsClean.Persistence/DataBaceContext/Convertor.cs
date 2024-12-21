@@ -9,13 +9,20 @@ namespace UploadsClean.Persistence.DataBaceContext
     public static class Convertor
     {
         public static int ToInt(this object input)
-        { 
-            int result = 0;
-            if (result != 0)
-            { 
-            int.TryParse(input.ToString(), out result);    
+        {
+            try
+            {
+               
+                int.TryParse(input.ToString(), out int result);
+
+                return result;
             }
-            return result;
+            catch
+            {
+
+                return 0;   
+            }
+            
         }
     }
 }
