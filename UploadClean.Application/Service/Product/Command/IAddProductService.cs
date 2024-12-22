@@ -55,6 +55,8 @@ namespace UploadClean.Application.Service.Product.Command
         public string ImageUrlLow { get; set; }
         public int Count { get; set; }
         public string prise { get; set; }
+        public int CategoryId { get; set; }
+
     }
 
 

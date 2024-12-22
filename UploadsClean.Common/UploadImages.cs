@@ -66,9 +66,9 @@ namespace UploadsClean.Common
             {
                 Directory.CreateDirectory(path);
             }
-            string pathName = Guid.NewGuid().ToString() + file.Name;
+            string pathName = Guid.NewGuid().ToString() + file.FileName;
             var fullpath = $"{path}/{pathName}";
-            var thePath = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), path)).Root + "/" + pathName;
+            var thePath = new PhysicalFileProvider(Path.Combine(path)).Root + $@"\{pathName}";
             using (FileStream fs = File.Create(thePath))
             {
                 file.CopyTo(fs);

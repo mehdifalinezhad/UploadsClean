@@ -8,6 +8,7 @@ using NToastNotify;
 using UploadClean.Application.ADOInterface;
 using UploadClean.Application.Service.CAtegory.Command;
 using UploadClean.Application.Service.CAtegory.Queries;
+using UploadClean.Application.Service.Product.Command;
 using UploadsClean.Domain.Entities.Users;
 using UploadsClean.Persistence.DataBaceContext;
 
@@ -30,6 +31,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services.AddScoped<IAddCategoryServise, AddCategoryServise>();
     builder.Services.AddScoped<IGetAllCateqoryService, GetAllCateqoryService>();
     builder.Services.AddScoped<IDelCategoryService, DelCategoryService>();
+    builder.Services.AddScoped<IAddProductService, AddPtoduct>();
 
     builder.Services.AddMvc().AddNToastNotifyNoty(new NotyOptions
     {

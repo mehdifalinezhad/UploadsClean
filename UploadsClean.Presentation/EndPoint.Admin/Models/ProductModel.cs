@@ -1,4 +1,6 @@
-﻿namespace EndPoint.Admin.Models
+﻿using EndPoint.Admin.Utilities;
+
+namespace EndPoint.Admin.Models
 {
     public class ProductModel
     {
@@ -9,6 +11,9 @@
        public IFormFile File {get;set;}
        public int Count {get;set;}
        public string prise {get;set;}
+       public int CategoryId { get;set;}
+       public List<ListItemDto> listCat { get;set;}
+
       
        
     

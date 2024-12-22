@@ -60,11 +60,11 @@ namespace EndPoint.Admin.Utilities
 			{ 
 			Title= (model.Title==null)?string.Empty:model.Title,
             Count= (model.Count == null) ?0 : model.Count,
-            ImageUrl= (model.ImageUrl == null) ? string.Empty : model.ImageUrl,
-            ImageUrlLow = (model.ImageUrlLow == null) ? string.Empty : model.ImageUrlLow,
-             prise = (model.prise == null) ? string.Empty : model.prise
-
-           
+            ImageUrl= UploadImages.SaveImage(model.File,"Product"),
+            ImageUrlLow =UploadImages.SaveImageLow(model.File,"Product"),
+             prise = (model.prise == null) ? string.Empty : model.prise,
+             CategoryId = (model.CategoryId == null) ? 0 : model.CategoryId
+   
 			};
 
 
